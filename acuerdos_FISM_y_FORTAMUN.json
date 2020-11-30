@@ -1,0 +1,33 @@
+[
+    {
+        "TituloAcuerdo": "Acuerdo de Distribución y Calendarización de los FISM y FORTAMUN",
+        "Anios_acuerdos": [
+            {
+                "anio": "2006",
+                "ruta": "0",
+                "url": "marco-juridico/Estatal/informacion/Acuerdos/distribucion-calendarizacion/A2006.pdf"
+            },
+            {
+                "anio": "2007",
+                "ruta": "0",
+                "url": "marco-juridico/Estatal/informacion/Acuerdos/distribucion-calendarizacion/A2007.pdf"
+            },
+            {
+                "anio": "2008",
+                "ruta": "0",
+                "url": "marco-juridico/Estatal/informacion/Acuerdos/distribucion-calendarizacion/A2008.pdf"
+            },
+            {
+                "anio": "2009",
+                "ruta": "0",
+                "url": "marco-juridico/Estatal/informacion/Acuerdos/distribucion-calendarizacion/A2009.pdf"
+            },
+            {
+                "anio": "2010",
+                "ruta": "0",
+                "url": "marco-juridico/Estatal/informacion/Acuerdos/distribucion-calendarizacion/A2010.pdf"
+            }
+            
+        ]
+    }
+]
