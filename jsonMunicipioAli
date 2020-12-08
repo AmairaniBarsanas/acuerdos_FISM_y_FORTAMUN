@@ -1,0 +1,76 @@
+{
+  "_id": {
+    "$oid": "5fc969061e05bae956f7a888"
+  },
+  "Cve_Municipio": "1",
+  "Desc_Municipio": "Acacoyagua",
+  "Activo": 1,
+  "Documentos": [
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f45"
+      },
+      "Cve_Documento": "1",
+      "Cve_Municipio": "1",
+      "Ano": "2007",
+      "Datos_Ruta": "1",
+      "URL_Documento": "http://www.sec-gobiernochiapas.gob.mx/secgegob/archivos/descargas.php?f=LEY DE INGRESOS DE ACACOYAGUA.pdf",
+      "Activo": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f48"
+      },
+      "Cve_Documento": "2",
+      "Cve_Municipio": "1",
+      "Ano": "2008",
+      "Datos_Ruta": "1",
+      "URL_Documento": "http://www.sec-gobiernochiapas.gob.mx/secgegob/archivos/descargas.php?f=DECRETO NUMERO 005.pdf",
+      "Activo": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f4b"
+      },
+      "Cve_Documento": "3",
+      "Cve_Municipio": "1",
+      "Ano": "2009",
+      "Datos_Ruta": "0",
+      "URL_Documento": "marco-juridico/Municipal/informacion/Ley-Ingreso/2009/acacoyagua.pdf",
+      "Activo": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f4e"
+      },
+      "Cve_Documento": "4",
+      "Cve_Municipio": "1",
+      "Ano": "2010",
+      "Datos_Ruta": "0",
+      "URL_Documento": "marco-juridico/Municipal/informacion/Ley-Ingreso/2010/Acacoyagua.pdf",
+      "Activo": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f51"
+      },
+      "Cve_Documento": "5",
+      "Cve_Municipio": "1",
+      "Ano": "2011",
+      "Datos_Ruta": "0",
+      "URL_Documento": "marco-juridico/Municipal/informacion/Ley-Ingreso/2011/Decreto.pdf",
+      "Activo": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fc966181e05bae956f79f54"
+      },
+      "Cve_Documento": "6",
+      "Cve_Municipio": "1",
+      "Ano": "2012",
+      "Datos_Ruta": "0",
+      "URL_Documento": "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/Acacoyagua.pdf",
+      "Activo": 1
+    }
+  ]
+}
