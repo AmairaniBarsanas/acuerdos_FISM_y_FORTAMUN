@@ -1,4 +1,5 @@
 # IMPORTANTE AHORA CEDULA DE UN TRAMITE DE HACIENDA:
+https://amairanibarsanas.github.io/jsonServicios/cedula.json
 
 # Acuerdo de Distribución y Calendarización de los FISM y FORTAMUN:
 https://amairanibarsanas.github.io/acuerdos_Estatales/acuerdos_FISM_y_FORTAMUN.json
