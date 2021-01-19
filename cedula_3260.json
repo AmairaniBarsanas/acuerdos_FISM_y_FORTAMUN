@@ -1,0 +1,186 @@
+{
+  "nombre": "Expedición de licencias de conducir en la modalidad de chofer, automovilista o motociclista",
+  "idtiposolicitud": "Trámite",
+  "modalidad": {
+    "tipo": "Presencial",
+    "telefono": null,
+    "url": null
+  },
+  "fundamento_legal": "<ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tLey de Derechos del Estado de Chiapas, art&iacute;culo 24, fracci&oacute;n XII, incisos b) al d), fracci&oacute;n XIII incisos b) al d), fracci&oacute;n XIV incisos b) al d), y fracci&oacute;n XV incisos b) al d).&nbsp;.&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tLey Org&aacute;nica de la Administraci&oacute;n P&uacute;blica del Estado de Chiapas, art&iacute;culo 30, fracci&oacute;n XLIII&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento Interior de la Secretar&iacute;a de Hacienda, art&iacute;culo 63, fraccion XIX y art&iacute;culo 65, fraccion XXXIII.&nbsp; &nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo137.&nbsp;&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tC&oacute;digo de la Hacienda P&uacute;blica para el Estado de Chiapas, &nbsp;libro primero, art&iacute;culo 101, fracciones de la I a la XIII y libro segundo, art&iacute;culo 265.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>\r\n</ul>\r\n",
+  "descripcion": "<p>\r\n\tConsiste en expedir la licencia de conducir en todas sus modalidades a toda persona mayor de edad.</p>\r\n",
+  "casos_puede": "<p>\r\n\tToda persona&nbsp; que requiera conducir vehiculos de motor en el estado, para dar cumplimiento al Reglamento de Transito del Estado.&nbsp; &nbsp;</p>\r\n",
+  "indicaciones": {
+    "intro_indicacion": "Estimado usuario, con el fin de contribuir a realizar con oportunidad su trámite, considere las indicaciones siguientes:",
+    "indicacion": "<div style=\"text-align: justify;\">\r\n\t<ul>\r\n\t\t<li style=\"text-align: justify;\">\r\n\t\t\tEl ciudadano debe acudir de manera personal al Departamento de Licencias y Permisos Provisionales de la Direcci&oacute;n de la Polic&iacute;a Estatal de Tr&aacute;nsito o en cualquiera de las&nbsp; Delegaciones de Tr&aacute;nsito ubicadas en el Estado o en el Centro de Recaudaci&oacute;n Local Torre Chiapas, en caso de estar en la ciudad de Tuxtla Gutierrez, para que le apliquen el examen de manejo y agudeza visual, a fin de&nbsp; obtener el Formato de Aprobaci&oacute;n de Examen.&nbsp;</li>\r\n\t\t<li>\r\n\t\t\tPosteriormente para obtener la licencia de conducir, deber&aacute; acudir a las Delegaciones de Hacienda, Centros de Recaudaci&oacute;n Local o M&oacute;dulos Recaudatorios (ver apartado &ldquo;D&oacute;nde acudir a realizar el Tr&aacute;mite o Servicio&rdquo;), con la documentaci&oacute;n indicada en el apartado &ldquo;Requisitos&quot;.</li>\r\n\t</ul>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n"
+  },
+  "requisitos": "\n\t\t\t<table border=\"1\" style=\"font-size:60%\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr style=\"background-color: #F0F0F0;\">\n\t\t\t\t\t\t<td align=\"center\"><br>Nombre</td>\n\t\t\t\t\t\t<td align=\"center\">Se necesita los <br>siguientes criterios: <br>-Firma<br>-Validación<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero</td>\n\t\t\t\t\t\t<td align=\"center\">Persona, empresa,<br>sujeto obligado o <br>instancia que lo emite</td>\n\t\t\t\t\t\t<td align=\"center\">Realizaci&oacute;n de tr&aacute;mites o servicios adicionales (Si/No)\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Adicional se necesita alguno de los <br>siguientes criterios: <br>-Firma<br>Validación/Act.<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Persona o <br>empresa que lo emite\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. que deber&aacute; conservar con motivo del tr&aacute;mite o servicio:<br>-Acreditación<br>-Inspección<br>-Verificación \n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. adicional acerca del requisito\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Original</td>\n\t\t\t\t\t\t<td align=\"center\">Copias</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t</table>\n\t\t\t<tbody>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Formato de aprobación de examen</td>\n\t\t\t\t\t<td><br><br>&bull;Firma<br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br>Departamento de Licencias y Permisos Provisionales de la Dirección de la Policía Estatal de Tránsito.</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo 137, fracci&oacute;n VII.&nbsp;&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tRequisito Nuevo.</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Comprobante de pago</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tLey de Derechos del Estado de Chiapas, art&iacute;culo 24, fracci&oacute;n XII, incisos b) al d), fracci&oacute;n XIII incisos b) al d), fracci&oacute;n XIV incisos b) al d), y fracci&oacute;n XV incisos b) al d).</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo 137, fracci&oacute;n IX.</li>\r\n\t<li>\r\n\t\tRequisito Nuevo.</li>\r\n\t<li>\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Acta de nacimiento </td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li>\r\n\t\t3 a&ntilde;os m&aacute;ximo de haberse emitido.</li>\r\n\t<li>\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo 137, fracci&oacute;n I.&nbsp;</li>\r\n\t<li>\r\n\t\tRequisito Nuevo.</li>\r\n\t<li>\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Identificación oficial </td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li>\r\n\t\tPudiendo ser cualquiera de las siguientes:</li>\r\n</ul>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; Credencial para Votar, vigente.&nbsp;</div>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; Pasaporte, vigente.</div>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; C&eacute;dula Profesional con fotograf&iacute;a.</div>\r\n<div style=\"margin-left: 40px;\">\r\n\t<span style=\"font-size: 12px;\">&bull;Cartilla de Identidad del Servicio Militar Nacional.</span></div>\r\n<ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas,art&iacute;culo 137, fracci&oacute;n II.&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tRequisito Pre-existente.</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Comprobante de domicilio</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li>\r\n\t\tPudiendo ser cualquiera de los siguientes, con vigencia no mayor a 3 meses:</li>\r\n</ul>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; Recibo de a<span style=\"font-size: 12px;\">gua.</span></div>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; Recibo de luz.&nbsp;</div>\r\n<div style=\"margin-left: 40px;\">\r\n\t&bull; Recibo de tel&eacute;fono.</div>\r\n<div style=\"text-align: justify; margin-left: 40px;\">\r\n\tNota: De no contar con los requisitos anteriores, podr&aacute; utilizar la &quot;carta de manifestaci&oacute;n de domicilio para efectos fiscales&quot;, que ser&aacute; proporcionada por la Delegaci&oacute;n de Hacienda o Centro de Recaudaci&oacute;n Local.</div>\r\n<ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas,art&iacute;culo 137, fracci&oacute;n III.&nbsp;</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tRequisito&nbsp;Pre-existente.</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Clave Única de Registro de Población (CURP)</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li>\r\n\t\tPodr&aacute; descargarlo en:&nbsp; https://www.gob.mx/curp/&nbsp;</li>\r\n</ul>\r\n<div style=\"margin-left: 40px;\">\r\n\tPresentar en el caso que la identificacion oficial no cuente con el dato.</div>\r\n<ul>\r\n\t<li>\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo 137, Fracci&oacute;n IV.&nbsp;</li>\r\n\t<li>\r\n\t\tRequisito&nbsp;Pre-existente.</li>\r\n\t<li>\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Constancia de tipo de sangre </td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><ul>\r\n\t<li>\r\n\t\tEn caso de no tener la constancia, podr&aacute; indicarlo bajo su propia responsabilidad.</li>\r\n\t<li>\r\n\t\tReglamento de Tr&aacute;nsito para el Estado de Chiapas, art&iacute;culo 137, fracci&oacute;n VI.&nbsp;</li>\r\n\t<li>\r\n\t\tRequisito&nbsp;Pre-existente.</li>\r\n\t<li>\r\n\t\tContar con el requisito para realizar la expedici&oacute;n de licencias de conducir.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br></td></tr>\t\n\t\t\t</tbody>\n\t\t",
+  "formatos": {
+    "formatos": "No aplica"
+  },
+  "se_requiere_Inspección": {
+    "requerido": "NO",
+    "Inspección": null
+  },
+  "donde_acudir": {
+    "listado": [
+      {
+        "Organo": "Delegación de Hacienda Cintalapa",
+        "Funcionario": "Mtro.Obilfrido Gómez Álvarez",
+        "domicilio": "Calle Central y 7a. Sur #633 ",
+        "cp": "30400",
+        "municipio": "Cintalapa",
+        "estado": "Chiapas",
+        "telefonodirecto": "(968) 68 4 20 48",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90550, 90551",
+        "Correo": ""
+      },
+      {
+        "Organo": "Delegación de Hacienda Comitán de Domínguez",
+        "Funcionario": "Lic. José Manuel Ruiz Gómez",
+        "domicilio": " Calle Central Oriente, Benito Juárez No. 46",
+        "cp": "30000",
+        "municipio": "Comitán de Domínguez",
+        "estado": "Chiapas",
+        "telefonodirecto": "(963) 63 2 05 12, 63 2 00 47",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90505, 90506",
+        "Correo": "jmruiz@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Huixtla",
+        "Funcionario": "C.P. Amada Yanet Silva Hernández",
+        "domicilio": "Calle Allende Oriente No. 1",
+        "cp": "30640",
+        "municipio": "Huixtla",
+        "estado": "Chiapas",
+        "telefonodirecto": "01 (964) 64 2 07 88, 64 2 23 67",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90545, 90546",
+        "Correo": "asilva@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Motozintla",
+        "Funcionario": "Lic. Vanessa Magnolia Calderón Espinosa",
+        "domicilio": "5a. Avenida Sur No. 330",
+        "cp": "30900",
+        "municipio": "Motozintla",
+        "estado": "Chiapas",
+        "telefonodirecto": " (962) 64 1 03 37",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90595, 90596",
+        "Correo": "vcalderon@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Ocosingo",
+        "Funcionario": "Lic. Luis Alberto Velázquez Guillen",
+        "domicilio": " 11 Oriente Sur S/N",
+        "cp": "29950",
+        "municipio": "Ocosingo",
+        "estado": "Chiapas",
+        "telefonodirecto": "(919) 67 3 06 06, 67 3 09 96",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90515, 90516",
+        "Correo": "lvelazquezg@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Palenque",
+        "Funcionario": "Lic. Karina Trujillo García",
+        "domicilio": " Av. Hidalgo No. 24, Esquina Vicente Guerrero",
+        "cp": "29960",
+        "municipio": "Palenque",
+        "estado": "Chiapas",
+        "telefonodirecto": "(916) 34 5 01 10, 34 5 15 73",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90540, 90541",
+        "Correo": "ktrujillo@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Pichucalco",
+        "Funcionario": "Mtro. Ismael Suárez Contreras",
+        "domicilio": "Porfirio Díaz No. 54",
+        "cp": "29520",
+        "municipio": "Pichucalco",
+        "estado": "Chiapas",
+        "telefonodirecto": "( 932) 32 3 00 18, 32 3 08 29",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90520, 90521",
+        "Correo": "isuarez@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Reforma",
+        "Funcionario": "C.P. María del Rosario Gurria Sangeado",
+        "domicilio": "Aldama S/N, entre Joaquín Miguel Gtz. e Hidalgo",
+        "cp": "29500",
+        "municipio": "Reforma",
+        "estado": "Chiapas",
+        "telefonodirecto": "(917) 32 8 02 31, 32 8 09 67",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90510, 90511",
+        "Correo": "mgurria@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda San Cristóbal de las Casas",
+        "Funcionario": "Lic. Lizbeth Irazú González Gómez",
+        "domicilio": " Prolongación Insurgentes, Esquina Eje Vial S/N, Unidad De Servicios Administrativos, Planta Baja ",
+        "cp": "29290",
+        "municipio": "San Cristóbal de las Casas",
+        "estado": "Chiapas",
+        "telefonodirecto": "(967) 67 8 04 02, 67 8 08 90",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90570, 90571",
+        "Correo": "lirazu@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Tapachula de Córdova y Ordoñez",
+        "Funcionario": "Lic. Francisco Mariano Reyero Molina",
+        "domicilio": " Unidad Administrativa, Edificio B, Planta Baja, entre 1a. y 3a. Avenida Sur Prolongacion",
+        "cp": "30727",
+        "municipio": "Tapachula",
+        "estado": "Chiapas",
+        "telefonodirecto": "(962) 62 6 24 55, 6 43 11",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90535, 90536",
+        "Correo": "mreyero@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Tonalá",
+        "Funcionario": "Lic. Victorino Chirino García ",
+        "domicilio": "Avenida Hidalgo esquina Calle 15 de Mayo No. 100",
+        "cp": "30500",
+        "municipio": "Tonalá",
+        "estado": "Chiapas",
+        "telefonodirecto": "01 (966) 66 3 00 46, 3 44 86",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90565, 90566",
+        "Correo": "vchirino@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Villaflores",
+        "Funcionario": "",
+        "domicilio": " 4a. Poniente, Av.central Esq. S/n",
+        "cp": "30470",
+        "municipio": "Villaflores",
+        "estado": "Chiapas",
+        "telefonodirecto": "(965) 65 2 01 82, 2 21 29",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90555, 90556",
+        "Correo": ""
+      }
+    ]
+  },
+  "plazo": "40 minutos.",
+  "monto": "Ver Tabla de Costos.",
+  "forma_costo": "Se aplicará el 6% adicional a la base gravable del impuesto o derecho que corresponda, y se pagará en el momento en que se cubra el pago de los mismos.",
+  "tabla_costo": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:521px;\" width=\"521\">\r\n\t<colgroup>\r\n\t\t<col style=\"text-align: center;\" />\r\n\t\t<col style=\"text-align: center;\" />\r\n\t\t<col style=\"text-align: center;\" />\r\n\t\t<col style=\"text-align: center;\" />\r\n\t</colgroup>\r\n\t<tbody>\r\n\t\t<tr height=\"51\">\r\n\t\t\t<td height=\"51\" style=\"height: 51px; width: 92px; text-align: center;\">\r\n\t\t\t\tConcepto</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\tCosto<br />\r\n\t\t\t\t(Ley de Derechos del Estado de Chiapas)</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t6% adicional<br />\r\n\t\t\t\t(C&oacute;digo de la Hacienda P&uacute;blica para el Estado de Chiapas)</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\tTotal a pagar</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td colspan=\"4\" height=\"22\" style=\"height: 22px;\">\r\n\t\t\t\tLicencia de conducir para chofer:&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t2 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$1,150.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$69.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,219.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t3 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$1,450.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$87.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,537.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t4 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$1,950.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$117.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$2,067.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t5 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$2,450.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$147.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$2,597.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td colspan=\"4\" height=\"22\" style=\"height: 22px;\">\r\n\t\t\t\tLicencia de conducir para automovilista:</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t2 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$950.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$57.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,007.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t3 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$1,000.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$60.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,060.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t4 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$1,350.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$81.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,431.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t5 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t1,650.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$99.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$1,749.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td colspan=\"4\" height=\"22\" style=\"height: 22px;\">\r\n\t\t\t\tLicencia de conducir para motociclista:</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t2 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$500.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$30.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$530.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t3 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$600.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$36.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$636.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t4 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$650.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$39.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$689.00</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"22\">\r\n\t\t\t<td height=\"22\" style=\"height: 22px; width: 92px; text-align: center;\">\r\n\t\t\t\t5 a&ntilde;os</td>\r\n\t\t\t<td style=\"width: 143px; text-align: center;\">\r\n\t\t\t\t$900.00</td>\r\n\t\t\t<td style=\"width: 175px; text-align: center;\">\r\n\t\t\t\t$54.00</td>\r\n\t\t\t<td style=\"width: 112px; text-align: center;\">\r\n\t\t\t\t$954.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+  "Realizar_pago": "• En Delegaciones de Hacienda, Centros de Recaudación Local y Módulos Recaudatorios.\r\n• En línea a través de: http://www.haciendachiapas.gob.mx/contenido/ingresos/informacion/pagoderechos/MenuPrincipal.asp\r\n• En Instituciones bancarias autorizadas, Telecomm Telégrafos y tiendas de conveniencia (OXXO, Chedraui y Farmacias del Ahorro).",
+  "vigencia_solicitud": "Todo el año durante los días y horarios establecidos.",
+  "vigencia": "Licencia de conducir.",
+  "vigencia_resolucion": "No aplica",
+  "horario": "De 8:30 a.m. a 3:00 p.m. de lunes a viernes en días hábiles.",
+  "quejas_y_sugerencias": {
+    "intro": "Estimado usuario si usted tiene una inconformidad u opini&oacute;n por el servicio recibido, le invitamos a manifestar su queja o sugerencia, ya que con ello, contribuye a que esta instituci&oacute;n le brinde un mejor servicio.\nEstas son las alternativas:",
+    "listado_organos": [
+      {
+        "Organo": "Departamento de Asistencia y Difusión Fiscal",
+        "Funcionario": "Lic. José Luis Martínez Andrade ",
+        "domicilio": "Boulevard Andrés Serra Rojas No. 1090, Torre Chiapas, Piso 10",
+        "cp": "29045",
+        "telefonodirecto": "",
+        "conmutador": "(961) 69 1 - 40 - 43 Ext. 65215"
+      }
+    ],
+    "final": "<br>&bull; Acuda con el Lic. Wilsom Espinosa Aguilar, en el Departamento de Ética y Prevención de Conflicto de la Dirección de Evolución Patrimonial, Conflicto de Interés y Ética de la Secretaría de la Honestidad y Función Pública, sita en Boulevard Los Castillos No. 410, en el Fraccionamiento Montes Azules en la ciudad de Tuxtla Gutiérrez, Chiapas. O bien, si lo prefiere comuníquese al teléfono: 800 900 9000 lada sin costo o bien (961) 12 1 59 70 y (961) 8 75 30 extensión 22501. <br><br> En internet a través del Sistema Electrónico QuejaNet, en la dirección electrónica siguiente:\n<a href=\"http://shyfpchiapas.gob.mx/servicios/quejanetformulario\" target=\"_blank\">http://shyfpchiapas.gob.mx/servicios/quejanetformulario</a> \nRequisite y deposite el formulario ubicado en los buzones instalados en dependencias y entidades de la Administración Pública Estatal o envíe un correo a quejanet@shyfpchiapas.gob.mx"
+  },
+  "normatividad": "<p>\r\n\tNo aplica.</p>\r\n",
+  "adicionalinfo": "<p>\r\n\tPara las personas con capacidades diferentes y que soliciten la licencia de conducir, la Direcci&oacute;n de la Polic&iacute;a Estatal de Tr&aacute;nsito, exigir&aacute; la adaptaci&oacute;n de mecanismos, anteojos o cualquier otro medio que habilite al conductor para la obtenci&oacute;n de la licencia de conducir.</p>\r\n<h4>\r\n\tNota de privacidad: http://www.haciendachiapas.gob.mx/avisodeprivacidad/aviso.asp &nbsp;</h4>\r\n<div>\r\n\t&nbsp;</div>\r\n",
+  "criterios": "<p>\r\n\tPresentar los requisitos establecidos.</p>\r\n"
+}

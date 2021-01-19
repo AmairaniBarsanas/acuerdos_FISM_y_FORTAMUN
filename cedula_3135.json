@@ -1,0 +1,197 @@
+{
+  "nombre": "Aviso de fusión de los contribuyentes por Impuesto Sobre Nóminas, Impuesto Sobre Hospedaje, Impuesto sobre Juegos Permitidos, Rifas, Sorteos, Loterias y Concursos, e Impuesto Sobre Servidumbre de Terreno Para Obras y Trabajos de Primera Mano de Materi",
+  "idtiposolicitud": "Trámite",
+  "modalidad": {
+    "tipo": "Presencial",
+    "telefono": null,
+    "url": null
+  },
+  "fundamento_legal": "<ul>\r\n\t<li>\r\n\t\tLey General de Sociedades Mercantiles, art&iacute;culos 222, 223, 224, 225 y 226.</li>\r\n\t<li>\r\n\t\tC&oacute;digo de la Hacienda P&uacute;blica para el Estado de Chiapas, art&iacute;culo 31, fracci&oacute;n V y art&iacute;culo 101.&nbsp;</li>\r\n\t<li>\r\n\t\tReglamento del C&oacute;digo de la Hacienda P&uacute;blica para el Estado de Chiapas, art&iacute;culo 20, fracci&oacute;n VII y art&iacute;culo 25, fracci&oacute;n I.&nbsp;</li>\r\n\t<li>\r\n\t\tReglamento Interior de la Secretaria de Hacienda, art&iacute;culo 71, fracciones V y VIII.</li>\r\n</ul>\r\n<div>\r\n\t&nbsp;</div>\r\n",
+  "descripcion": "<p>\r\n\tAviso que presenta el contribuyente por la uni&oacute;n de dos o m&aacute;s empresas, en la que subsiste una o la creaci&oacute;n de otra.</p>\r\n",
+  "casos_puede": "<p>\r\n\tCuando el contribuyente presenta la union de dos o mas empresas, en la que subsiste una o la creacion de otra.</p>\r\n",
+  "indicaciones": {
+    "intro_indicacion": "Estimado usuario, con el fin de contribuir a realizar con oportunidad su trámite, considere las indicaciones siguientes:",
+    "indicacion": "<div>\r\n\t<p>\r\n\t\t&nbsp;</p>\r\n</div>\r\n<div>\r\n\t&bull; Imprimir formulario de registro o movimientos al registro estatal de contribuyentes (FR-1), para ser requisitado con letra legible en la siguiente direcci&oacute;n: http://www.ingresos.haciendachiapas.gob.mx/servicios/informacion/formatos-contrib/FR-1.pdf&nbsp;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\t&bull;Acudir a la Delegaci&oacute;n de Hacienda o Centro de Recaudaci&oacute;n Local de la jurisdicci&oacute;n correspondiente a su domicilio fiscal, presentando la documentaci&oacute;n indicada en el apartado &quot;Requisitos&quot;</div>\r\n<div>\r\n\t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\r\n<div>\r\n\t&bull; El contribuyente recibe formulario de registro o movimientos al registro estatal de contribuyentes (FR-1) debidamente sellado.</div>\r\n"
+  },
+  "requisitos": "\n\t\t\t<table border=\"1\" style=\"font-size:60%\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr style=\"background-color: #F0F0F0;\">\n\t\t\t\t\t\t<td align=\"center\"><br>Nombre</td>\n\t\t\t\t\t\t<td align=\"center\">Se necesita los <br>siguientes criterios: <br>-Firma<br>-Validación<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero</td>\n\t\t\t\t\t\t<td align=\"center\">Persona, empresa,<br>sujeto obligado o <br>instancia que lo emite</td>\n\t\t\t\t\t\t<td align=\"center\">Realizaci&oacute;n de tr&aacute;mites o servicios adicionales (Si/No)\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Adicional se necesita alguno de los <br>siguientes criterios: <br>-Firma<br>Validación/Act.<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Persona o <br>empresa que lo emite\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. que deber&aacute; conservar con motivo del tr&aacute;mite o servicio:<br>-Acreditación<br>-Inspección<br>-Verificación \n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. adicional acerca del requisito\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Original</td>\n\t\t\t\t\t\t<td align=\"center\">Copias</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t</table>\n\t\t\t<tbody>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Formulario de registro o movimientos al registro estatal de contribuyentes (FR-1)</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\thttp://www.ingresos.haciendachiapas.gob.mx/servicios/informacion/formatos-contrib/FR-1.pdf</p>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresa solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Identificación oficial con fotografía</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><div>\r\n\t&nbsp;Pudiendo ser cualquiera de las siguientes:</div>\r\n<ul>\r\n\t<li>\r\n\t\tCredencial para Votar, vigente</li>\r\n\t<li>\r\n\t\tPasaporte, vigente</li>\r\n\t<li>\r\n\t\tC&eacute;dula Profesional&nbsp;</li>\r\n\t<li>\r\n\t\tCartilla de Identidad del Servicio Militar Nacional</li>\r\n\t<li>\r\n\t\tCertificado de Matr&iacute;cula Consular</li>\r\n\t<li>\r\n\t\tLicencia de Conducir Estatal o Federal, vigente&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>\r\n\t<li>\r\n\t\tC&eacute;dula de Identificacion Fiscal (persona moral)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Original para cotejo</li>\r\n</ul>\r\n<div>\r\n\t<p style=\"text-align: justify;\">\r\n\t\t&nbsp;</p>\r\n\t<p>\r\n\t\tTrat&aacute;ndose de extranjeros:</p>\r\n</div>\r\n<div>\r\n\tDocumento migratorio vigente que corresponda, emitido por autoridad competente (en su caso, pr&oacute;rroga o refrendo migratorio).</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\t<div>\r\n\t\tNormatividad Integral, vigente.</div>\r\n\t<div>\r\n\t\tRequisito Preexistente.</div>\r\n\t<div>\r\n\t\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n\t<div>\r\n\t\t&nbsp;</div>\r\n</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Poder notarial </td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\tEl cual otorga la empresa al representante legal</p>\r\n<p>\r\n\tOriginal para cotejo</p>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Constancia de la fusión</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\tLa cual estar&aacute; debidamente certificada que ha quedado inscrita en el Registro P&uacute;blico de la Propiedad y del Comercio</p>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Acta de fusión de la sociedad</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\tEmitida por el Servicio de Administracion Tributaria (SAT)</p>\r\n<p>\r\n\tOriginal para cotejo</p>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Última declaración de cada una de las sociedades que se fusionan</td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><div>\r\n\tOriginal para cotejo</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Cédula de identificación fiscal </td>\n\t\t\t\t\t<td><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\tDe la empresa que subsista o de la nueva seg&uacute;n sea el caso</p>\r\n<p>\r\n\tOriginal para cotejo</p>\r\n<div>\r\n\tNormatividad Integral, vigente.</div>\r\n<div>\r\n\tRequisito Preexistente.</div>\r\n<div>\r\n\tContar con el requisito para realizar la fusi&oacute;n de dos o mas empresas solicitado.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\t\n\t\t\t</tbody>\n\t\t",
+  "formatos": {
+    "formatos": "No aplica"
+  },
+  "se_requiere_Inspección": {
+    "requerido": "NO",
+    "Inspección": null
+  },
+  "donde_acudir": {
+    "listado": [
+      {
+        "Organo": "Delegación de Hacienda Cintalapa",
+        "Funcionario": "Mtro.Obilfrido Gómez Álvarez",
+        "domicilio": "Calle Central y 7a. Sur #633 ",
+        "cp": "30400",
+        "municipio": "Cintalapa",
+        "estado": "Chiapas",
+        "telefonodirecto": "(968) 68 4 20 48",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90550, 90551",
+        "Correo": ""
+      },
+      {
+        "Organo": "Delegación de Hacienda Comitán de Domínguez",
+        "Funcionario": "Lic. José Manuel Ruiz Gómez",
+        "domicilio": " Calle Central Oriente, Benito Juárez No. 46",
+        "cp": "30000",
+        "municipio": "Comitán de Domínguez",
+        "estado": "Chiapas",
+        "telefonodirecto": "(963) 63 2 05 12, 63 2 00 47",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90505, 90506",
+        "Correo": "jmruiz@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Huixtla",
+        "Funcionario": "C.P. Amada Yanet Silva Hernández",
+        "domicilio": "Calle Allende Oriente No. 1",
+        "cp": "30640",
+        "municipio": "Huixtla",
+        "estado": "Chiapas",
+        "telefonodirecto": "01 (964) 64 2 07 88, 64 2 23 67",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90545, 90546",
+        "Correo": "asilva@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Motozintla",
+        "Funcionario": "Lic. Vanessa Magnolia Calderón Espinosa",
+        "domicilio": "5a. Avenida Sur No. 330",
+        "cp": "30900",
+        "municipio": "Motozintla",
+        "estado": "Chiapas",
+        "telefonodirecto": " (962) 64 1 03 37",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90595, 90596",
+        "Correo": "vcalderon@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Ocosingo",
+        "Funcionario": "Lic. Luis Alberto Velázquez Guillen",
+        "domicilio": " 11 Oriente Sur S/N",
+        "cp": "29950",
+        "municipio": "Ocosingo",
+        "estado": "Chiapas",
+        "telefonodirecto": "(919) 67 3 06 06, 67 3 09 96",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90515, 90516",
+        "Correo": "lvelazquezg@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Palenque",
+        "Funcionario": "Lic. Karina Trujillo García",
+        "domicilio": " Av. Hidalgo No. 24, Esquina Vicente Guerrero",
+        "cp": "29960",
+        "municipio": "Palenque",
+        "estado": "Chiapas",
+        "telefonodirecto": "(916) 34 5 01 10, 34 5 15 73",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90540, 90541",
+        "Correo": "ktrujillo@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Pichucalco",
+        "Funcionario": "Mtro. Ismael Suárez Contreras",
+        "domicilio": "Porfirio Díaz No. 54",
+        "cp": "29520",
+        "municipio": "Pichucalco",
+        "estado": "Chiapas",
+        "telefonodirecto": "( 932) 32 3 00 18, 32 3 08 29",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90520, 90521",
+        "Correo": "isuarez@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Reforma",
+        "Funcionario": "C.P. María del Rosario Gurria Sangeado",
+        "domicilio": "Aldama S/N, entre Joaquín Miguel Gtz. e Hidalgo",
+        "cp": "29500",
+        "municipio": "Reforma",
+        "estado": "Chiapas",
+        "telefonodirecto": "(917) 32 8 02 31, 32 8 09 67",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90510, 90511",
+        "Correo": "mgurria@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda San Cristóbal de las Casas",
+        "Funcionario": "Lic. Lizbeth Irazú González Gómez",
+        "domicilio": " Prolongación Insurgentes, Esquina Eje Vial S/N, Unidad De Servicios Administrativos, Planta Baja ",
+        "cp": "29290",
+        "municipio": "San Cristóbal de las Casas",
+        "estado": "Chiapas",
+        "telefonodirecto": "(967) 67 8 04 02, 67 8 08 90",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90570, 90571",
+        "Correo": "lirazu@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Tapachula de Córdova y Ordoñez",
+        "Funcionario": "Lic. Francisco Mariano Reyero Molina",
+        "domicilio": " Unidad Administrativa, Edificio B, Planta Baja, entre 1a. y 3a. Avenida Sur Prolongacion",
+        "cp": "30727",
+        "municipio": "Tapachula",
+        "estado": "Chiapas",
+        "telefonodirecto": "(962) 62 6 24 55, 6 43 11",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90535, 90536",
+        "Correo": "mreyero@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Tonalá",
+        "Funcionario": "Lic. Victorino Chirino García ",
+        "domicilio": "Avenida Hidalgo esquina Calle 15 de Mayo No. 100",
+        "cp": "30500",
+        "municipio": "Tonalá",
+        "estado": "Chiapas",
+        "telefonodirecto": "01 (966) 66 3 00 46, 3 44 86",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90565, 90566",
+        "Correo": "vchirino@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Tuxtla Gutiérrez",
+        "Funcionario": "Lic. Sandra Zambrano Hernández",
+        "domicilio": "Calle Central No. 348, Entre 2a. y 3a. Norte",
+        "cp": "29000",
+        "municipio": "Tuxtla Gutiérrez",
+        "estado": "Chiapas",
+        "telefonodirecto": "60 0 19 43, 60 0 18 61",
+        "conmutador": "(961) 69 1 -40 -43, Ext. 90575, 90576",
+        "Correo": "szambrano@haciendachiapas.gob.mx"
+      },
+      {
+        "Organo": "Delegación de Hacienda Villaflores",
+        "Funcionario": "",
+        "domicilio": " 4a. Poniente, Av.central Esq. S/n",
+        "cp": "30470",
+        "municipio": "Villaflores",
+        "estado": "Chiapas",
+        "telefonodirecto": "(965) 65 2 01 82, 2 21 29",
+        "conmutador": "(961) 69 1 -40 -43, Ext.90555, 90556",
+        "Correo": ""
+      }
+    ]
+  },
+  "plazo": "30 minutos",
+  "monto": "Gratuito",
+  "forma_costo": "No aplica",
+  "tabla_costo": "<p>\r\n\tNo aplica</p>\r\n",
+  "Realizar_pago": "No aplica",
+  "vigencia_solicitud": "Todo el año durante los días y horas hábiles establecidos",
+  "vigencia": "Formato FR-1 con aviso de fusion",
+  "vigencia_resolucion": "No aplica",
+  "horario": "8:30 a.m a 3:00 p.m. de lunes a viernes en días hábiles",
+  "quejas_y_sugerencias": {
+    "intro": "Estimado usuario si usted tiene una inconformidad u opini&oacute;n por el servicio recibido, le invitamos a manifestar su queja o sugerencia, ya que con ello, contribuye a que esta instituci&oacute;n le brinde un mejor servicio.\nEstas son las alternativas:",
+    "listado_organos": [
+      {
+        "Organo": "Departamento de Asistencia y Difusión Fiscal",
+        "Funcionario": "Lic. José Luis Martínez Andrade ",
+        "domicilio": "Boulevard Andrés Serra Rojas No. 1090, Torre Chiapas, Piso 10",
+        "cp": "29045",
+        "telefonodirecto": "",
+        "conmutador": "(961) 69 1 - 40 - 43 Ext. 65215"
+      }
+    ],
+    "final": "<br>&bull; Acuda con el Lic. Wilsom Espinosa Aguilar, en el Departamento de Ética y Prevención de Conflicto de la Dirección de Evolución Patrimonial, Conflicto de Interés y Ética de la Secretaría de la Honestidad y Función Pública, sita en Boulevard Los Castillos No. 410, en el Fraccionamiento Montes Azules en la ciudad de Tuxtla Gutiérrez, Chiapas. O bien, si lo prefiere comuníquese al teléfono: 800 900 9000 lada sin costo o bien (961) 12 1 59 70 y (961) 8 75 30 extensión 22501. <br><br> En internet a través del Sistema Electrónico QuejaNet, en la dirección electrónica siguiente:\n<a href=\"http://shyfpchiapas.gob.mx/servicios/quejanetformulario\" target=\"_blank\">http://shyfpchiapas.gob.mx/servicios/quejanetformulario</a> \nRequisite y deposite el formulario ubicado en los buzones instalados en dependencias y entidades de la Administración Pública Estatal o envíe un correo a quejanet@shyfpchiapas.gob.mx"
+  },
+  "normatividad": "<p>\r\n\tNormatividad Integral, vigente.</p>\r\n",
+  "adicionalinfo": "<p>\r\n\tAviso de privacidad: http://www.haciendachiapas.gob.mx/avisodeprivacidad/aviso.asp</p>\r\n",
+  "criterios": "<p>\r\n\tPresentar los requisitos completos</p>\r\n"
+}
